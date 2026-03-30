@@ -10,7 +10,7 @@
 * Do share useful and positive content.
 * Do check facts before sharing news.
 
-\----------------------------------------------------------------------
+
 
 ## **Don'ts**
 
