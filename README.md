@@ -6,7 +6,7 @@ Reg No: 25BAI10022
 
 Branch: CSE(AI/ML)
 
-Year: 1st Year Semester 2nd
+Year: 1st Year
 
 # Project Overview
 This project is part of the CSE0001 Digital Literacy course. It covers various aspects of digital awareness, professional communication, online tools, and cyber safety.
