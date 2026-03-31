@@ -1,4 +1,4 @@
-# Digital Literacy
+# Digital Literacy Project
 
 Name: Divas Jain
 
